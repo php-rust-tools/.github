@@ -5,7 +5,7 @@ This organisation is home to a range of tools aimed at improving the PHP ecosyst
 **[Join the Discord](https://discord.gg/mCTx877dsV)**
 
 **Projects**
-* [Parser](https://github.com/php-rust-tools/parser] - parse PHP source code into a concrete syntax tree.
-* [Codegen] - generate PHP classes, interfaces and more from Rust.
+* [Parser](https://github.com/php-rust-tools/parser) - parse PHP source code into a concrete syntax tree.
+* [Codegen](https://github.com/php-rust-tools/codegen) - generate PHP classes, interfaces and more from Rust.
 
 Other repositories under this organisation are still a work-in-progress.
